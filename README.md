@@ -14,7 +14,6 @@
 - 📏 Auto-injection of `<meta viewport>` for responsive rendering
 - 🔁 Retry mechanism for handling WebView load errors
 - 🔙 Back press support within WebView history
-- 🌓 Dark mode compatibility (system-aware)
 
 ---
 
@@ -42,14 +41,14 @@
 ## 🗂️ Project Structure
 
 AndroidWebViewApp/
-├── app/
-│ └── src/
-│ └── main/
-│ └── java/com/example/shipglobalv3/
-│ └── MainActivity.kt
-├── build.gradle
-├── settings.gradle
-└── README.md
+├──> app/
+│ └──> src/
+│ └──> main/
+│ └──> java/com/example/shipglobalv3/
+│ └──> MainActivity.kt
+├──> build.gradle
+├──> settings.gradle
+└──> README.md
 
 ---
 
