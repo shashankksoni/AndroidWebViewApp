@@ -5,6 +5,12 @@
   <sub>Developed by <a href="https://github.com/shashankksoni">Shashank Kumar Soni</a></sub>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/shashankksoni/AndroidWebViewApp?style=social" />
+  <img src="https://img.shields.io/github/last-commit/shashankksoni/AndroidWebViewApp" />
+  <img src="https://img.shields.io/badge/Made_with-Kotlin-7f52ff?logo=kotlin&logoColor=white" />
+</p
+
 ---
 
 ## 🚀 Features
@@ -14,6 +20,27 @@
 - 📏 Auto-injection of `<meta viewport>` for responsive rendering
 - 🔁 Retry mechanism for handling WebView load errors
 - 🔙 Back press support within WebView history
+
+---
+
+## 🎬 Demo Preview
+
+> *(Below is a placeholder — update the `demo.gif` once you upload it)*
+
+<p align="center">
+  <img src="https://github.com/shashankksoni/AndroidWebViewApp/blob/main/demo.gif" width="300" alt="App Demo GIF"/>
+</p>
+
+---
+
+## 📦 Download
+
+> 🛑 APK not publicly available due to company confidentiality.  
+> ✅ Download link will be added here once authorized.
+
+<!-- 
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/shashankksoni/AndroidWebViewApp/blob/main/AndroidWebViewApp-v1.0.apk?raw=true)
+-->
 
 ---
 
