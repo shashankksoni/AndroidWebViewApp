@@ -63,10 +63,10 @@ AndroidWebViewApp/
 
 3. Run on device or emulator (min SDK: 24)
 
-##📄 License
+## 📄 License
 This project is licensed under the [MIT License](LICENSE)
 
-##🙋‍♂️ Author
+## 🙋‍♂️ Author
 **Shashank Kumar Soni**
 📧 shashanksoni192@gmail.com
 🔗 [GitHub Profile](https://github.com/shashankksoni)
