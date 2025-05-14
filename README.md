@@ -38,17 +38,7 @@
 
 ---
 
-## 🗂️ Project Structure
-
-AndroidWebViewApp/
-├──> app/
-│ └──> src/
-│ └──> main/
-│ └──> java/com/example/shipglobalv3/
-│ └──> MainActivity.kt
-├──> build.gradle
-├──> settings.gradle
-└──> README.md
+<pre><code>## 🗂️ Project Structure ``` AndroidWebViewApp/ ├── app/ │ └── src/ │ └── main/ │ └── java/ │ └── com/example/shipglobalv3/ │ └── MainActivity.kt ├── build.gradle ├── settings.gradle └── README.md ``` </code></pre>
 
 ---
 
