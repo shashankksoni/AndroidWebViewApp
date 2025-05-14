@@ -40,6 +40,7 @@
 
 ## 🗂️ Project Structure
 
+```
 AndroidWebViewApp/
 ├── app/
 │   └── src/
@@ -50,6 +51,7 @@ AndroidWebViewApp/
 ├── build.gradle
 ├── settings.gradle
 └── README.md
+```
 
 
 ---
