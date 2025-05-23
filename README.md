@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/shashankksoni/AndroidWebViewApp?style=social" />
-  <img src="https://img.shields.io/github/last-commit/shashankksoni/AndroidWebViewApp" />
-  <img src="https://img.shields.io/badge/Made_with-Kotlin-7f52ff?logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Made_with-Kotlin-7f52ff?logo=kotlin&logoColor=white" />
 </p
 
 ---
