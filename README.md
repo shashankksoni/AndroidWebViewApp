@@ -103,6 +103,6 @@ This project is licensed under the [MIT License](LICENSE)
 
 If you found this project helpful or interesting, please give it a ⭐ on GitHub — it helps others find it too!
 
-<p align="center"> Made with ❤️ by Shashank Kumar Soni </p> ```
+<p align="center"> Made with ❤️ by Shashank Kumar Soni </p>
 
 
